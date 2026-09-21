@@ -1,0 +1,11 @@
+{
+    "cat": {
+        "classification": "https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset?select=PetImages",
+        "reid": "https://www.kaggle.com/datasets/timost1234/cat-individuals?resource=download-directory"
+    },
+    "dog": {
+        "classification": "https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset?select=PetImages",
+        "reid_multipose": "https://data.mendeley.com/datasets/v5j6m8dzhv/1",
+        "reid_face_net": "https://zenodo.org/records/12578449?preview_file=DogFaceNet_large.zip"
+    }
+}
