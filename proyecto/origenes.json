@@ -1,8 +1,5 @@
 {
     "cat": {
         "reid": "https://www.kaggle.com/datasets/timost1234/cat-individuals?resource=download-directory"
-    },
-    "dog": {
-        "reid_multipose": "https://data.mendeley.com/datasets/v5j6m8dzhv/1"
     }
 }
