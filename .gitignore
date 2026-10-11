@@ -1,22 +1,29 @@
-# Entornos virtuales
+# Entorno virtual
 .iavenv/
-env/
 venv/
-iavenv/
+.venv/
 
-# Caché de Python y Jupyter Notebooks
-__pycache__/
-.ipynb_checkpoints/
-
-# Archivos de datos e imágenes pesadas
-data/
-raw/
-*.jpg
-*.jpeg
-*.png
+# Datos pesados (se regeneran desde el zip o la fuente original)
+data/raw/
+data/interim/
 *.zip
 
-# Archivos de sistema y editores de código
-.DS_Store
+# Modelos y checkpoints
+models/
+*.pth
+*.pt
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code y sistema
 .vscode/
-.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variables de entorno / secretos
+.env
