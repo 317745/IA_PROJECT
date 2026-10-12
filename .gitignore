@@ -6,6 +6,7 @@ venv/
 # Datos pesados (se regeneran desde el zip o la fuente original)
 data/raw/
 data/interim/
+data/validation/
 *.zip
 
 # Modelos y checkpoints
