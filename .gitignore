@@ -6,7 +6,8 @@ venv/
 # Datos pesados (se regeneran desde el zip o la fuente original)
 data/raw/
 data/interim/
-data/validation/
+data/validation/val2017/
+data/validation/val2017.cache
 *.zip
 
 # Modelos y checkpoints
@@ -14,6 +15,9 @@ models/
 *.pth
 *.pt
 *.ckpt
+
+notebooks/runs/
+notebooks/yolo26m.pt
 
 # Python
 __pycache__/
