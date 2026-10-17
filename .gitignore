@@ -8,6 +8,8 @@ data/external/val2017/
 data/interim/
 data/processed/cropped/
 data/processed/resized/
+data/processed/test/
+data/processed/train/
 *.zip
 
 # Modelos y checkpoints
