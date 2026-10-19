@@ -1,6 +1,6 @@
 path: C:/Users/castr/OneDrive/Desktop/proyecto_ia/data
 train: external/muestra_300   # placeholder
-val: external/muestra_300/
+val: external/muestra_300
 
 names:
   0: person

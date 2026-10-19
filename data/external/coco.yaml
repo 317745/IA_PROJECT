@@ -1,6 +1,6 @@
-path: C:/Users/castr/OneDrive/Desktop/proyecto_ia/data
-train: validation/val2017   # placeholder
-val: validation/val2017
+path: C:/Users/castr/OneDrive/Desktop/proyecto_ia/data/external
+train: val2017   # placeholder
+val: val2017
 
 names:
   0: person
