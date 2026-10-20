@@ -1,5 +1,9 @@
 {
     "cat": {
-        "reid": "https://www.kaggle.com/datasets/timost1234/cat-individuals?resource=download-directory"
+        "reid": "https://www.kaggle.com/datasets/timost1234/cat-individuals?resource=download-directory",
+        "validation_yolo": {
+            "coco_2017": "https://www.kaggle.com/datasets/xthink/coco-2017-val-images",
+            "cat_dataset": "https://www.kaggle.com/datasets/crawford/cat-dataset"
+            }
     }
 }
