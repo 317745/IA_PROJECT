@@ -3,9 +3,13 @@
 
 # Datos pesados (se regeneran desde el zip o la fuente original)
 data/raw/
+
 data/external/muestra_300/
 data/external/val2017/
+data/external/cat_breeds/
+
 data/interim/
+
 data/processed/cropped/
 data/processed/resized/
 data/processed/test/
