@@ -5,8 +5,9 @@
 data/raw/
 
 data/external/muestra_300/
-data/external/val2017/
-data/external/cat_breeds/
+data/external/cats_breeds/
+data/external/cats_ft/
+data/external/cats_val/
 
 data/interim/
 
